@@ -1,16 +1,21 @@
 ## Hi there 👋
-
+Biomedical research to digital transformation-growing into data science, one project at a time.
 <!--
 **Niragaja/Niragaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 📈 Stock Data Web Scraper (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built with **Python** and **BeautifulSoup**, this project scrapes and visualizes historical stock data. Completed as part of Coursera’s *Web Scraping Using BeautifulSoup*.
+
+---
+
+## 🔧 Tools: requests · BeautifulSoup · pandas · matplotlib
+
+## 🚀 Highlights
+- Scrapes stock data from a financial site  
+- Parses and structures HTML  
+- Plots price trends  
+
+> Part of my journey into data science.
+
+
